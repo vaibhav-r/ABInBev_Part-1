@@ -1,1 +1,1 @@
-These are both the explanation document and sorce code for Part-1.
+This is both the explanation document and source code for Part 1.
